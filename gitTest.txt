@@ -7,4 +7,4 @@ Hello World Git!
 Hello World Git!
 Hello World Git!
 Hello World Git!
-Hello World Git! 这是当前在master分支下冲突分支的修改
+Hello World Git! 这是解决冲突合并过程中的修改
