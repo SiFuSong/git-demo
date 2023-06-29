@@ -8,3 +8,4 @@ Hello World Git!
 Hello World Git!
 Hello World Git!
 Hello World Git! 这是当前在NewBranch分支下冲突分支的修改
+Hello World Git! 此分支为NewBranch，测试从远程库中拉取到本地库
