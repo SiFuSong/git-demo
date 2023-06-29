@@ -8,3 +8,4 @@ Hello World Git!
 Hello World Git!
 Hello World Git!
 Hello World Git! 这是解决冲突合并过程中的修改
+Hello World Git! 此分支为master，测试从远程库中拉取到本地库
